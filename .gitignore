@@ -22,3 +22,7 @@ models/
 # OS
 .DS_Store
 Thumbs.db
+.dvc/config
+/data
+/models
+/venv-tp4-mlops
