@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+
+# Data/model folders (tracked by DVC, not Git)
+data/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
