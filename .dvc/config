@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://sdia-bdcc-bucket-tp4/dvc-storage
+    region = us-west-2
